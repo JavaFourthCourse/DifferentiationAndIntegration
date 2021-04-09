@@ -1,6 +1,6 @@
 package apps.maths.derivatives;
 
-public class TestFunction implements Differentiable
+public class TestDifferentiableFunction implements Differentiable
 {
 	@Override
 	public double differentiableFunction(double x)
