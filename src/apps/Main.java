@@ -20,11 +20,13 @@ public class Main
 {
 	public static void main(String[] args)
 	{
-		// firstTask();
+		System.out.println("Первое задание:");
 		
-		// System.out.println();
+		firstTask();
 		
-		// secondTask();
+		System.out.println("\nВторое задание");
+		
+		secondTask();
 	}
 	
 	private static void firstTask()
